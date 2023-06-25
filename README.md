@@ -1,5 +1,7 @@
 This project aims to segment customers of an e-commerce website into homogeneous
-groups. 
+groups. You can find more details about it at this url : 
+https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+ 
 The RFM method will be used for creating customer clusters.
 
 R : Recency (days)
